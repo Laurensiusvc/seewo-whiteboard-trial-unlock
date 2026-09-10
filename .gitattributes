@@ -1,0 +1,10 @@
+# Generated on 2026-11-06
+# See https://github.com/github/linguist
+*.min.css linguist-generated
+**/*.py linguist-detectable
+*.htm linguist-vendored
+package-lock.json linguist-generated
+*.py linguist-detectable
+*.woff2 binary
+vendor/* linguist-vendored
+*.html linguist-vendored
